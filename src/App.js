@@ -12,7 +12,7 @@ function App() {
     <Router>
     <NavBar title='GET SET GO Studio'></NavBar>
     <Routes>
-    <Route exact path="/" element={<MainSection/>} />
+    <Route exact path="/home" element={<MainSection/>} />
     <Route exact path="/services" element={<MoreInfo/>} />
     <Route exact path="/about" element={<About/>} />
     <Route exact path="/contact" element={<Contact/>} />
