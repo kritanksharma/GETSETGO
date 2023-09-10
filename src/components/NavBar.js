@@ -10,7 +10,7 @@ export default function navBar(props) {
         style={{ backgroundColor: "black" , border:'none'}}
       >
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/home">
           <img
               src={logo}
               alt="Logo"
@@ -33,7 +33,7 @@ export default function navBar(props) {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="/">
+                <a className="nav-link" aria-current="page" href="/home">
                   Home
                 </a>
               </li>
