@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "../static/logo.png";
+import {Link} from "react-router-dom";
 export default function navBar(props) {
   return (
     <div>
@@ -9,7 +10,7 @@ export default function navBar(props) {
         style={{ backgroundColor: "black" , border:'none'}}
       >
         <div className="container-fluid">
-          <a className="navbar-brand" href="/">
+          <Link className="navbar-brand" to="/">
           <img
               src={logo}
               alt="Logo"
@@ -17,7 +18,7 @@ export default function navBar(props) {
               height="60"
               className="justify-content-center"
             />
-          </a>
+          </Link>
           <button
             className="navbar-toggler"
             type="button"
@@ -37,19 +38,19 @@ export default function navBar(props) {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/services">
+                <Link className="nav-link" to="/services">
                  Services
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/about">
+                <Link className="nav-link" to="/about">
                   About Us
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/contact">
+                <Link className="nav-link" to="/contact">
                   Contact Us
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
