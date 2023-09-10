@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/GETSETGO/static/css/main.e77bdb28.css",
+    "main.js": "/GETSETGO/static/js/main.8a7c6d32.js",
+    "static/js/787.7016f703.chunk.js": "/GETSETGO/static/js/787.7016f703.chunk.js",
+    "static/media/bg1.mp4": "/GETSETGO/static/media/bg1.88ebbc8e2f37f4aa18ad.mp4",
+    "static/media/bg2.png": "/GETSETGO/static/media/bg2.19cf4808fa2fbad284d3.png",
+    "static/media/s3.jpeg": "/GETSETGO/static/media/s3.1bfaf6bf8018e87af818.jpeg",
+    "static/media/idea.png": "/GETSETGO/static/media/idea.ee41511d76db0a942b0b.png",
+    "static/media/s2.jpeg": "/GETSETGO/static/media/s2.39ee937173f16b325517.jpeg",
+    "static/media/team.png": "/GETSETGO/static/media/team.00efa316464a5e161563.png",
+    "static/media/contact.png": "/GETSETGO/static/media/contact.5110708f5a3cf9b516ce.png",
+    "static/media/completed.png": "/GETSETGO/static/media/completed.d2cc5a2ec833760d01d3.png",
+    "static/media/connect1.png": "/GETSETGO/static/media/connect1.2a760a9a1303caee5ef2.png",
+    "static/media/checklist.png": "/GETSETGO/static/media/checklist.d8ec4654ff800aabb0e8.png",
+    "static/media/s1.jpeg": "/GETSETGO/static/media/s1.508b05379272fe278eda.jpeg",
+    "static/media/logo.png": "/GETSETGO/static/media/logo.993648b81e9f37e296d3.png",
+    "index.html": "/GETSETGO/index.html",
+    "main.e77bdb28.css.map": "/GETSETGO/static/css/main.e77bdb28.css.map",
+    "main.8a7c6d32.js.map": "/GETSETGO/static/js/main.8a7c6d32.js.map",
+    "787.7016f703.chunk.js.map": "/GETSETGO/static/js/787.7016f703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77bdb28.css",
+    "static/js/main.8a7c6d32.js"
+  ]
+}
